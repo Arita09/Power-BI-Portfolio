@@ -1,12 +1,12 @@
-Power BI Financial Analysis Report
+# Power BI Financial Analysis Report
 
-📊 Overview
+## 📊 Overview
 
 This project analyzes the financial performance of XCompany, focusing on sales, profitability, and pricing strategies across different regions and product categories. The goal is to provide actionable insights to improve revenue and profit margins.
 
-🔍 Key Insights
+## 🔍 Key Insights
 
-1️⃣ Sales & Revenue Analysis
+### **1️⃣ Sales & Revenue Analysis**
 
 Total Sales: ~$119 million
 
@@ -22,7 +22,7 @@ VTT: $21 million
 
 Velo: $18 million
 
-2️⃣ Profitability & Performance
+### **2️⃣ Profitability & Performance**
 
 Top 3 Revenue-Generating Countries:
 
@@ -48,7 +48,7 @@ Highest Profit Margin: Amarila (15%)
 
 Enterprise Segment Profitability: -$614,546 (Needs Improvement)
 
-3️⃣ Forecasting & Recommendations
+### **3️⃣ Forecasting & Recommendations**
 
 Predicted Q1 2015 Sales: $26 million based on trends.
 
@@ -64,7 +64,7 @@ Run promotions for Q3 (weakest quarter).
 
 Consider restructuring or eliminating the Enterprise Segment.
 
-📁 Files in This Repository
+## **📁 Files in This Repository**
 
 Financial_Analysis.pbix - Power BI report file
 
@@ -72,7 +72,7 @@ dashboard_screenshots/ - Images of key Power BI visualizations
 
 README.md - This file (project documentation)
 
-🚀 How to Use This Report
+## **🚀 How to Use This Report**
 
 Download the .pbix file and open it in Power BI Desktop.
 
