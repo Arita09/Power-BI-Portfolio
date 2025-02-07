@@ -2,11 +2,11 @@
 # **Table of Contents**
 * [Sales & Revenue Analysis](https://github.com/Arita09/Power-BI-Portfolio/edit/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#1%EF%B8%8F%E2%83%A3-sales--revenue-analysis)
 
-* [Profitability & Performance]([link](https://github.com/Arita09/Power-BI-Portfolio/blob/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#2%EF%B8%8F%E2%83%A3-profitability--performance))
+* [Profitability & Performance](https://github.com/Arita09/Power-BI-Portfolio/blob/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#2%EF%B8%8F%E2%83%A3-profitability--performance)
 
-* [Forcasting]([link](https://github.com/Arita09/Power-BI-Portfolio/edit/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#3%EF%B8%8F%E2%83%A3-forecasting--decision-making))
+* [Forcasting](https://github.com/Arita09/Power-BI-Portfolio/edit/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#3%EF%B8%8F%E2%83%A3-forecasting--decision-making)
 
-* [Recommendation]([link](https://github.com/Arita09/Power-BI-Portfolio/edit/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#final-recommendations))
+* [Recommendation](https://github.com/Arita09/Power-BI-Portfolio/edit/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#final-recommendations)
 
 
 # Financial Performance Analysis for XCompany
