@@ -73,13 +73,13 @@ Optimizing Q4 sales strategies as it is the busiest period so far, while introdu
 ![Screenshot 2025-02-07 152752](https://github.com/user-attachments/assets/703b6923-9248-4596-a310-4225f7134220)
 
 ## **Final Recommendations**
-✔ Reassess the Enterprise segment: Either discontinue it or introduce new pricing and marketing strategies to improve its profitability.
+✔ **Reassess the Enterprise segment:** Either discontinue it or introduce new pricing and marketing strategies to improve its profitability.
 
-✔ Prioritize high-margin products (e.g., Amarilla) to optimize revenue and profit balance.
+✔ **Prioritize high-margin products (e.g., Amarilla)** to optimize revenue and profit balance.
 
-✔ Boost marketing and distribution in the USA & Mexico, where revenue is lower but has growth potential.
+✔ **Boost marketing and distribution in the USA & Mexico**, where revenue is lower but has growth potential.
 
-✔ Leverage Q4 as the peak season and create strategic promotions for Q3 to balance sales throughout the year.
+✔ **Leverage Q4 as the peak season and create strategic promotions for Q3** to balance sales throughout the year.
 
 ## **Conclusion**
 XCompany has a strong financial foundation, but **profitability can be significantly improved with better product focus, regional sales strategies, and seasonal marketing efforts.** By **shifting focus toward high-margin products, adjusting pricing strategies, and leveraging seasonal demand**, the company can increase profitability and sustain long-term growth.
