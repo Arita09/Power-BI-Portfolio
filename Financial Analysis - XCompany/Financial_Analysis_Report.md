@@ -1,4 +1,13 @@
 ## 📄 Detailed Report
+# **Table of Contents**
+* [Sales & Revenue Analysis](https://github.com/Arita09/Power-BI-Portfolio/edit/main/Financial%20Analysis%20-%20XCompany/Financial_Analysis_Report.md#1%EF%B8%8F%E2%83%A3-sales--revenue-analysis)
+
+* [Profitability & Performance](link)
+
+* [Forcasting](link)
+
+* [Recommendation](link)
+
 
 # Financial Performance Analysis for XCompany
 ### **Project Overview**
